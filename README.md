@@ -37,7 +37,7 @@ https://github.com/Nishantbg02/collaborative-task-management-app-backend
 - Next.js
 - React
 - JavaScript
-- CSS / Tailwind (if used)
+- CSS / Tailwind
 
 ### Backend
 - ASP.NET Core Web API
