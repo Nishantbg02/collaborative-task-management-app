@@ -49,7 +49,7 @@ https://github.com/Nishantbg02/collaborative-task-management-app-backend
 ## ⚙️ How to Run the Frontend
 
 ```bash
-git clone https://github.com/Nishantbg02/Collaborative-Task-Management-App.git
+git clone https://github.com/Nishantbg02/Collaborative-task-Management-App.git
 cd Collaborative-Task-Management-App
 npm install
 npm run dev
